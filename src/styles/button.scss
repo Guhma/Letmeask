@@ -5,8 +5,9 @@
     background: #835afd;
     color: #FFF;
     padding: 0 32px;
+    justify-content: space-between;
 
-    display: flex;
+
     justify-content: center;
     align-items: center;
 
@@ -34,3 +35,12 @@
         cursor: not-allowed;
     }
 }
+
+ .question-list {
+     button {
+        height: 50px;
+        color: #FFF;
+        padding: 0 5px;
+
+     }
+ }
