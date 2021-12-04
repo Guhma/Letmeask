@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/hugomendonca98/LetMeAsk.git
+$ git clone https://github.com/Guhma/Letmeask
 $ cd letmeask
 ```
 
